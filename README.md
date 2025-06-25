@@ -9,14 +9,6 @@
 
 The "Environment Perception System for Smart Vehicles" is an innovative Advanced Driver-Assistance System (ADAS) meticulously crafted to elevate driver awareness and safety. This solution tackles the pressing issue of blind spots in vehicles, especially during parking or lane changes, mitigating the substantial risks associated with accidents. The system seamlessly integrates cutting-edge hardware and software to provide crystal-clear visuals, precise object distances, and a comprehensive bird's-eye view in real-time.
 
-## Contents of the Drive
-
-1. **Project Reports:** Detailed documentation of the project development process, encompassing design specifications and technical analysis.
-2. **Portfolio:** A compilation of highlights and key achievements, showcasing the project's excellence.
-3. **Presentations:** Slides and materials from all project presentations.
-4. **Prototype Instructions:** A step-by-step guide on setting up and running the prototype for comprehensive demonstrations.
-5. **Source Files:** The code files instrumental in the project's development.
-6. **3D Design Files:** SolidWorks files and designs used in the physical construction of the prototype.
 
 ## Features
 
