@@ -1,4 +1,3 @@
-# ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES
 
 
 # Environment Perception System for Smart Vehicles
