@@ -6,11 +6,6 @@
 ![The Project](https://github.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/blob/main/Images/The%20Project.jpeg)
 
 
-
-**Advisors:**
-- Dr. Muhammad Bilal (Project Advisor)
-- Dr. Mohammed Shahzad Hanif (Project Co-advisor)
-
 ## Overview
 
 The "Environment Perception System for Smart Vehicles" is an innovative Advanced Driver-Assistance System (ADAS) meticulously crafted to elevate driver awareness and safety. This solution tackles the pressing issue of blind spots in vehicles, especially during parking or lane changes, mitigating the substantial risks associated with accidents. The system seamlessly integrates cutting-edge hardware and software to provide crystal-clear visuals, precise object distances, and a comprehensive bird's-eye view in real-time.
@@ -35,8 +30,4 @@ The "Environment Perception System for Smart Vehicles" is an innovative Advanced
 - **High-Speed Performance:** Delivering visuals at a minimum of 10 fps for smooth and clear image quality.
 - **90% Accuracy in Object Detection:** Ensuring reliability, especially in high-speed contexts.
 
-## Acknowledgements
 
-Special thanks to **Dr. Muhammad Bilal** for his invaluable mentorship and guidance, and **Dr. Mohammed Abdulaal** at the CEIES for fostering a collaborative environment. Gratitude to our families and friends for their unwavering support throughout this transformative journey.
-
-![The Team](https://github.com/S3dMJ/ENVIRONMENT_PERCEPTION_SYSTEM_FOR_SMART_VEHICLES/blob/main/Images/The%20Team.jpeg)
